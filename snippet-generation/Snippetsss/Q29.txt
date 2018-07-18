@@ -1,0 +1,30 @@
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1539
+prime number generator 1 prime number generator 2 algorithm 35a1 algorithm 310a1 algorithm 311a1 cacm september 1967 chartres b a ca670907c jb march 23 1978 237 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1933
+coding the lehmer pseudo random number generator an algorithm and coding technique is presented for quick evaluation of the lehmer pseudo random number generator modulo 231 1 a prime mersenne number with produces 231 2 numbers on a p bit greater than 31 computer the computation method is extendible to limited problems in modular arithmetic prime factorization for 261 2 and a primitive root for 261 1 the next largest prime mersenne number are given for possible construction of a pseudo random number generator of increased cycle length cacm february 1969 payne w h rabung j r bogyo t p pseudo random number random number modular arithmetic uniform probability density uniform frequency function simulation prime factorization primitive roots ca690205 jb february 20 1978 1107 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1840
+an efficient prime number generator algorithm 357 a1 cacm october 1969 singleton r c prime numbers factoring number theory 315 530 ca691006 jb february 15 1978 323 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1841
+a prime number generator using the treesort principle algorithm 356 a1 cacm october 1969 singleton r c prime numbers number theory sorting 315 530 531 ca691005 jb february 15 1978 325 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2644
+a theorem proving language for experimentation because of the large number of strategies and inference rules presently under consideration in automated theorem proving there is a need for developing a language especially oriented toward automated theorem proving this paper discusses some of the features and instructions of this language the use of this language permits easy extension of automated theorem proving programs to include new strategies andor new inference rules such extend ability will permit general experimentation with the various alternative systems cacm june 1974 henschen l overbeek r wos l theorem proving resolution factoring paramodulation programming languages 360 422 521 ca740602 jb january 17 1978 337 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2089
+prime number algorithm 310 a1 cacm march 1970 rapp d g scott l d prime numbers generator 50 ca700309 jb february 13 1978 345 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2462
+an efficient prime number generator algorithm r357 cacm august 1973 demorgan r m ca730812 jb january 23 1978 1031 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1537
+prime number generator 1 algorithm 310 a1 cacm september 1967 chartres b a ca670907a jb february 27 1978 312 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1538
+prime number generator 2 algorithm 311 a1 cacm september 1967 chartres b a ca670907b jb march 23 1978 234 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-3131
+focus microcomputer number system focus is a number system and supporting computational algorithms especially useful for microcomputer control and other signal processing applications focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give focus better than a twofold accuracy advantage over an equal word length floating point system focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture of operations comparable in speed with hardware arithmetic for many applications algorithms for 8 bit and 16 bit implementations of focus are included cacm march 1979 edgar a lee s number representation logarithmic arithmetic computational speed computational accuracy microcomputer applications 324 380 40 422 511 ca790302 dh april 12 1979 1112 am 
+****************************

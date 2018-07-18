@@ -1,0 +1,7 @@
+<DOC><DOCNO>1</DOCNO>portabl oper system</DOC>
+<DOC><DOCNO>2</DOCNO>code optim for space effici</DOC>
+<DOC><DOCNO>3</DOCNO>parallel algorithm</DOC>
+<DOC><DOCNO>4</DOCNO>distribut comput structur and algorithm</DOC>
+<DOC><DOCNO>5</DOCNO>appli stochast process</DOC>
+<DOC><DOCNO>6</DOCNO>perform evalu and model of comput system</DOC>
+<DOC><DOCNO>7</DOCNO>parallel processor in inform retriev</DOC>

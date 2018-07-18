@@ -1,0 +1,30 @@
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2473
+hidden line plotting program algorithm r420 cacm july 1973 macleod i d g collins a m hidden line plot surface plot 49 ca730713 jb january 23 1978 1114 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2678
+visible surface plotting program j6 algorithm a475 cacm march 1974 wright t hidden line problem computer graphics contour surface 365 441 82 ca740305 jb january 18 1978 1118 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2384
+hidden line plotting program j6 algorithm a420 cacm february 1972 williamson h hidden line plot surface plot 49 ca720207 jb january 31 1978 412 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2751
+illumination for computer generated pictures the quality of computer generated images of three dimensional scenes depends on the shading technique used to paint the objects on the cathode ray tube screen the shading algorithm itself depends in part on the method for modeling the object which also determines the hidden surface algorithm the various methods of object modeling shading and hidden surface removal are thus strongly interconnected several shading techniques corresponding to different methods of object modeling and the related hidden surface algorithms are presented here human visual perception and the fundamental laws of optics are considered in the development of a shading rule that provides better quality and increased realism in generated images cacm june 1975 phong b t computer graphics graphic display hidden surface removal 326 341 82 ca750602 jb january 9 1978 146 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2913
+the aliasing problem in computer generated shaded images certain defects such as jagged edges and disappearing detail have long been an annoyance in digitally generated shaded images although increasing the resolution or defocusing the display can attenuate them an understanding of these defects leads to more effective methods this paper explains the observed defects in terms of the aliasing phenomenon inherent in sampled signals and discusses prefiltering as a recognized cure a method for evaluating filters is presented the application of prefiltering to hidden surface algorithms is discussed and an implementation of a filtering tiler is shown accompanied by examples of its effectiveness cacm november 1977 crow f c aliasing computer graphics convolutional filtering hidden surface removal sampling 82 ca771103 jb december 27 1977 756 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2369
+hidden lines elimination for a rotating object a method is presented of determining which parts of three dimensional objects are visible and which are invisible when the objects are rotated about some axis this paper describes a polygon comparison scheme in which the relationships of two polygons can be classified into tree types and also discusses how the relationship is changed for each pair of polygons under rotation about some axis a rotation table is defined for each pair of polygons which remains fixed as long as rotation is about one axis and provides a means of rapidly determining the visible and hidden line relationship between two polygons additional work must be done to extend this approach to simultaneous rotation about several axes cacm april 1972 matsushita y hidden line problem display programming computer graphics displays graphics computer drawn picture 440 441 449 ca720404 jb january 31 1978 140 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1915
+an algorithm for hidden line elimination the algorithm presented causes the elimination of hidden lines in the representation of a perspective view of concave and convex plane faced objects on the picture plane all the edges of the objects are considered sequentially and all planes which hide every point of an edge are found the computing time increases roughly as the square of the number of edges the algorithm takes advantage of a reduced number of concave points and automatically recognizes if only one object with no concave points is considered in this last case the result is obtained in a much simpler way cacm april 1969 galimberti r montanari u hidden line elimination back line recognition three dimensional representation plane faced objects perspective view machine rendering of solids automatic drawing displaying techniques computer graphics manmachine interaction manmachine communication computer aided design 440 441 449 ca690402 jb february 17 1978 444 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2441
+hidden line plotting program algorithm r420 cacm september 1973 williamson h ca730914 jb january 23 1978 836 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2638
+hidden line plotting program algorithm r420 cacm june 1974 gaither b ca740608 jb january 17 1978 300 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2637
+hidden line plotting program algorithm r420 cacm june 1974 ellis t m r ca740609 jb january 17 1978 259 pm 
+****************************

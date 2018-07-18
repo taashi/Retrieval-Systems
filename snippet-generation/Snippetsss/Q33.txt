@@ -1,0 +1,30 @@
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2043
+eigenvalues and eigenvectors of a real symmetric matrix f2 algorithm 384 cacm june 1970 stewart g w real symmetric matrix eigenvalues eigenvectors qr algorithm 514 ca700612 jb february 13 1978 1034 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1954
+eigenvalues and eigenvectors of a real symmetric matrix algorithm 384 f2 cacm december 1970 stewart g w real symmetric matrix eigenvalues eigenvectors qr algorithm 514 ca701209 jb february 9 1978 308 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2548
+normal deviate s14 algorithm a442 cacm january 1973 hill g w davis a w normal distribution inverse probit transform taylor series approximation 512 55 ca730113 jb january 24 1978 339 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2284
+solution of the matrix equation axxbc f4 algorithm a432 cacm september 1972 bartels r h stewart g w linear algebra matrices linear equations 514 ca720906 jb january 27 1978 431 pm 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1104
+an undergraduate curriculum in numerical analysis cacm april 1964 forsythe g e ca640404 jb march 10 1978 151 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2040
+modified romberg quadrature algorithm 351 d1 cacm june 1970 wallick g c numerical integration romberg quadrature modified romberg quadrature trapezoid values rectangle values 516 ca700615 jb february 13 1978 1027 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1982
+modified havie integration algorithm 400 d1 cacm october 1970 wallick g c numerical integration havie integration romberg quadrature modified romberg quadrature trapezoid values rectangle values 516 ca701008 jb february 10 1978 922 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-1990
+numerical constants algorithm cacm september 1970 dunham c b numerical algorithm numerical constants 510 ca700915 jb february 10 1978 948 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-2133
+algorithm for the assignment problem rectangular matrices h algorithm 415 cacm december 1971 bourgeois f lassalle j c operations research optimization theory assignment problem rectangular matrices 539 540 ca711210 jb february 2 1978 938 am 
+****************************
+/Users/rohitchawla/PycharmProjects/tryingtodosomecrap/Corpus/CACM-0085
+error analysis in floating point arithmetic cacm may 1959 carr iii j w ca590501 jb march 22 1978 643 pm 
+****************************
